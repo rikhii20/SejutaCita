@@ -15,7 +15,7 @@ This project was built with :
 - [NodeJS](https://nodejs.org/)
 - [ExpressJS](https://expressjs.com/)
 - [SequelizeJS](https://sequelize.org/)
-- [MySQL](https://www.mysql.com/)
+- [MongoDB](https://www.mongodb.com/)
 
 ## Getting Strarted
 
