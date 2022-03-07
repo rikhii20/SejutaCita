@@ -38,3 +38,8 @@ This project was built with :
    npm install
    ```
 3. Copy the .env to the project's folder
+
+## Attachment
+
+Link API docs : https://documenter.getpostman.com/view/18521457/UVkvKYng
+Diagram arsitektur aplikasi : /public/diagram-arsitektur-users.png
